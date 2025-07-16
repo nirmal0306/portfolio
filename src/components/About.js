@@ -51,7 +51,7 @@ const About = ({ darkMode }) => {
           Hello! I'm <strong>Nirmal</strong>, a futuristic full-stack developer blending cutting-edge technologies with elegant design.
         </p>
         <p>
-          Currently doing MScIT in Lj UNIVERSITY Ahmedabad.
+          Currently doing MScIT in Lok Jagruti Kendra University in Ahmedabad.
         </p>
         <p>
           I specialize in building scalable, visually immersive, and futuristic applications using the MERN stack, MEAN stack, Firebase, and TailwindCSS.
